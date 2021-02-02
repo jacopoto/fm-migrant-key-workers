@@ -1,0 +1,79 @@
+country,migrant_origin,key_worker
+"AT","Native",.3380204
+"AT","EU mobile",.3643737
+"AT","Extra EU",.3724321
+"BE","Native",.3692977
+"BE","EU mobile",.3658738
+"BE","Extra EU",.4389316
+"BG","Native",.1252913
+"BG","EU mobile",.1465139
+"BG","Extra EU",.21004
+"CY","Native",.2786524
+"CY","EU mobile",.2736593
+"CY","Extra EU",.4365988
+"CZ","Native",.2909435
+"CZ","EU mobile",.2842795
+"CZ","Extra EU",.2516407
+"DE","Native",.291085
+"DE","EU mobile",.3468981
+"DE","Extra EU",.3545431
+"DK","Native",.4181494
+"DK","EU mobile",.4714011
+"DK","Extra EU",.4791541
+"EE","Native",.2780928
+"EE","EU mobile",.2165146
+"EE","Extra EU",.3681131
+"ES","Native",.3471743
+"ES","EU mobile",.3176219
+"ES","Extra EU",.3794909
+"FI","Native",.392007
+"FI","EU mobile",.4376322
+"FI","Extra EU",.4633566
+"FR","Native",.3992794
+"FR","EU mobile",.4441773
+"FR","Extra EU",.4396459
+"EL","Native",.3722365
+"EL","EU mobile",.3376741
+"EL","Extra EU",.3289781
+"HR","Native",.3247407
+"HR","EU mobile",.2734692
+"HR","Extra EU",.2878409
+"HU","Native",.2932712
+"HU","EU mobile",.3098694
+"HU","Extra EU",.2675353
+"IE","Native",.3303509
+"IE","EU mobile",.3392518
+"IE","Extra EU",.4152609
+"IT","Native",.3066819
+"IT","EU mobile",.42927
+"IT","Extra EU",.3974927
+"LT","Native",.3160805
+"LT","EU mobile",.3495587
+"LT","Extra EU",.3607984
+"LU","Native",.3340437
+"LU","EU mobile",.2649152
+"LU","Extra EU",.3380282
+"LV","Native",.2901371
+"LV","EU mobile",.2854834
+"LV","Extra EU",.3084121
+"NL","Native",.3361688
+"NL","EU mobile",.3352762
+"NL","Extra EU",.3758522
+"PL","Native",.1733258
+"PL","EU mobile",.1895594
+"PL","Extra EU",.1383928
+"PT","Native",.3176273
+"PT","EU mobile",.3061931
+"PT","Extra EU",.3583374
+"RO","Native",.3909786
+"RO","EU mobile",.3464072
+"RO","Extra EU",.349173
+"SE","Native",.3789024
+"SE","EU mobile",.4349803
+"SE","Extra EU",.4845326
+"SI","Native",.1242393
+"SI","EU mobile",.1238619
+"SI","Extra EU",.0679936
+"SK","Native",.2947549
+"SK","EU mobile",.1975276
+"SK","Extra EU",.3041829
